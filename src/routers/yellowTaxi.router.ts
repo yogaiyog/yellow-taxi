@@ -1,4 +1,4 @@
-import { YellowTaxiController } from '@/controllers/yellowTaxi.controller';
+import { YellowTaxiController } from '../controllers/yellowTaxi.controller';
 import { Router } from 'express';
 
 export class YellowTaxiRouter {
